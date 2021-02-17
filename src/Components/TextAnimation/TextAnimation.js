@@ -11,7 +11,7 @@ export const TextAnimation = styled.p`
         typing 3s steps(40) 1s normal both;
 
     @media screen and (max-width: 780px){
-        font-size: 20px;
+        font-size: 16px;
     }
     
     @keyframes typing {
