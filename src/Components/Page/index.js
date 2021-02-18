@@ -8,7 +8,7 @@ const Index = () => {
     return (
         <IconContext.Provider value={{color: '#d90429'}}>
             <Container>
-                <TextAnimation>Minha namorada e loca, mais eu amo dela assim <FaGrinHearts />.</TextAnimation>
+                <TextAnimation>Minha namorada e loca, mais eu amo ela assim <FaGrinHearts />.</TextAnimation>
             </Container>
         </IconContext.Provider>
     )
